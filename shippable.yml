@@ -1,5 +1,5 @@
 language: ruby
-
+build_image: drydock/u12ruball:tip
 rvm:
   - jruby-1.7.12
 
